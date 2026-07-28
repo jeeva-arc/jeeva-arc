@@ -73,6 +73,13 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-arc&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/jeeva-arc/jeeva-arc/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
@@ -149,10 +156,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364"/>
 
 </div>
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/jeeva-arc/jeeva-arc/output/github-contribution-grid-snake.svg"/>
-
-</p>
